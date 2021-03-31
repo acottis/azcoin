@@ -1,0 +1,2 @@
+# azcoin
+My blockchain
